@@ -1,1 +1,1 @@
-# qualys_uatomation
+# qualys_automation
