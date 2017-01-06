@@ -1,0 +1,25 @@
+<data>
+	<scan_details>
+		<username>vmwar_hs</username>
+		<password>Test123#</password>
+		<email></email>
+	</scan_details>
+	<host_details>
+		<host>
+			<ip>10.112.89.82</ip>
+			<username>root</username>
+			<password>VMware123!</password>
+			<auth_record_title>nsx</auth_record_title>
+			<scan_template>797901</scan_template>
+			<report_template>991466</report_template>
+		</host>
+		<host>
+			<ip>10.112.89.83</ip>
+			<username>root</username>
+			<password>VMware123!</password>
+			<auth_record_title>nsx</auth_record_title>
+			<scan_template>797901</scan_template>
+			<report_template>991466</report_template>
+		</host>
+	</host_details>
+</data>
